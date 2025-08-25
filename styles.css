@@ -1,4 +1,25 @@
-body{
-    color: brown
-    bacd
+
+body {
+    color: rgb(255, 4, 4);
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(153, 0, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgba(14, 41, 194, 0.904);
+}
+
+.chamada {
+    background: rgb(0, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
