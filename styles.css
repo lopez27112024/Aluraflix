@@ -9,7 +9,8 @@ header {
     border-bottom: solid 2px rgb(153, 0, 255);
     padding: 20px;
     font-size: 32px;
-    color: rgba(14, 41, 194, 0.904);
+    color: rgba(194, 14, 14, 0.904);
+    font-family: "Rubik Beastly", system-ui;
 }
 
 .chamada {
